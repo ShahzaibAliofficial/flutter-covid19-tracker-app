@@ -34,6 +34,15 @@ https://disease.sh
 
 ---
 
+## 📸 Screenshots
+
+![Splash Screen](screenshots/splashscreen.jpeg)
+![Home Screen](screenshots/home.jpeg)
+![Countries Screen](screenshots/countries.jpeg)
+![Details Screen](screenshots/detail1.jpeg)
+![Details Screen](screenshots/detail2.jpeg)
+
+---
 
 ## 🚀 How to Run the Project
 
