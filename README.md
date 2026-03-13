@@ -36,12 +36,11 @@ https://disease.sh
 
 ## 📸 Screenshots
 
-![Splash Screen](screenshots/splashscreen.jpeg)
-![Home Screen](screenshots/home.jpeg)
-![Countries Screen](screenshots/countries.jpeg)
-![Details Screen](screenshots/detail1.jpeg)
-![Details Screen](screenshots/detail2.jpeg)
-
+<img src="screenshots/splashscreen.jpeg" width="250"/>
+<img src="screenshots/home.jpeg" width="250"/>
+<img src="screenshots/countries.jpeg" width="250"/>
+<img src="screenshots/detail1.jpeg" width="250"/>
+<img src="screenshots/detail2.jpeg" width="250"/>
 ---
 
 ## 🚀 How to Run the Project
