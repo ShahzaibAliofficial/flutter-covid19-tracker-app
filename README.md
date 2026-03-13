@@ -1,13 +1,24 @@
+# 🌍 Covid-19 Stats Tracker App (Flutter)
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![API](https://img.shields.io/badge/API-disease.sh-4AB8A7?style=flat)
 
-# 🌍 Covid-19 Stats Tracker App (Flutter)
-
-A Flutter mobile application that shows real-time global Covid-19 statistics using a public API. The app provides country-wise tracking and visual data representation through charts.
+A **Flutter mobile application** that shows real-time global Covid-19 statistics using a public API. The app provides **country-wise tracking** and **interactive charts** for visual data representation.
 
 ---
 
+## 📌 Table of Contents
+
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [API Used](#-api-used)
+- [Screenshots](#-screenshots)
+- [Installation & Run](#-installation--run)
+- [Author](#-author)
+- [Support](#-support)
+
+---
 ## 📱 Features
 
 - 🌎 Global Covid-19 statistics
