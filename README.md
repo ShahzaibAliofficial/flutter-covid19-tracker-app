@@ -1,16 +1,65 @@
-# covid_19_app
+# 🌍 Covid-19 Stats Tracker App (Flutter)
 
-A new Flutter project.
+A Flutter mobile application that shows real-time global Covid-19 statistics using a public API. The app provides country-wise tracking and visual data representation through charts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌎 Global Covid-19 statistics
+- 🔍 Country-wise search
+- 📊 Interactive pie chart visualization
+- 📈 Detailed country statistics
+- ⚡ Real-time API data fetching
+- 🎨 Clean and responsive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Technologies Used
+
+- Flutter
+- Dart
+- REST API
+- HTTP Requests
+- JSON Parsing
+- Pie Chart Package
+
+---
+
+## 📊 API Used
+
+This app fetches data from the public API:
+
+https://disease.sh
+
+---
+
+
+## 🚀 How to Run the Project
+
+1️⃣ Clone the repository
+
+
+2️⃣ Open the project
+
+
+3️⃣ Install dependencies
+
+
+4️⃣ Run the app
+
+
+
+---
+
+## 👨‍💻 Author
+
+**Shahzaib Ali**
+
+Flutter Developer | Learning Mobile App Development
+
+---
+
+## ⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub.
