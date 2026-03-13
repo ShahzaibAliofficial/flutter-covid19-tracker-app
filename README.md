@@ -8,17 +8,6 @@ A **Flutter mobile application** that shows real-time global Covid-19 statistics
 
 ---
 
-## 📌 Table of Contents
-
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [API Used](#-api-used)
-- [Screenshots](#-screenshots)
-- [Installation & Run](#-installation--run)
-- [Author](#-author)
-- [Support](#-support)
-
----
 ## 📱 Features
 
 - 🌎 Global Covid-19 statistics
