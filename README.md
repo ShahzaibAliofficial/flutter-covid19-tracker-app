@@ -36,8 +36,8 @@ https://disease.sh
 
 ## 📸 Screenshots
 
-<img src="screenshots/splashscreen.jpeg" width="250"/>
-<img src="screenshots/home.jpeg" width="250"/>
+<img src="screenshots/splashscreen.jpeg" width="250"/>&nbsp;
+<img src="screenshots/home.jpeg" width="250"/>&nbsp;
 <img src="screenshots/countries.jpeg" width="250"/>
 <img src="screenshots/detail1.jpeg" width="250"/>
 <img src="screenshots/detail2.jpeg" width="250"/>
